@@ -6,10 +6,10 @@
   </a>
   <br>
   <a href="https://github.com/Valite/Python-Scripts/issues">
-    <img src="https://img.shields.io/github/issues/Valite/project-template?color=0088ff&style=for-the-badge&logo=github" alt="@Valite/project-template's issues"/>
+    <img src="https://img.shields.io/github/issues/Valite/python-scripts?color=0088ff&style=for-the-badge&logo=github" alt="@Valite/project-template's issues"/>
   </a>
   <a href="https://github.com/Valite/Python-Scripts/pulls">
-    <img src="https://img.shields.io/github/issues-pr/Valite/project-template?color=0088ff&style=for-the-badge&logo=github" alt="@Valite/project-template's pull requests"/>
+    <img src="https://img.shields.io/github/issues-pr/Valite/python-scripts?color=0088ff&style=for-the-badge&logo=github" alt="@Valite/project-template's pull requests"/>
   </a>
   <a href="https://github.com/Valite/Python-Scripts/generate">
     <img src="https://img.shields.io/badge/use%20this-template-blue?logo=github-sponsors&style=for-the-badge&color=green" alt="@Valite/project-template link to create a new repository from the template">
