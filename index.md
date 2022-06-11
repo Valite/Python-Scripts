@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Python-Scripts
 
-You can use the [editor on GitHub](https://github.com/Valite/Python-Scripts/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+  <a href="https://github.com/Valite/project-template/generate">
+    <img width="50%" src="https://i.imgur.com/D1DBcRW.png" alt="@Valite/python-scripts">
+  </a>
+  <br>
+  <a href="https://github.com/Valite/Python-Scripts/issues">
+    <img src="https://img.shields.io/github/issues/Valite/python-scripts?color=0088ff&style=for-the-badge&logo=github" alt="@Valite/Python-Scripts issues"/>
+  </a>
+  <a href="https://github.com/Valite/Python-Scripts/pulls">
+    <img src="https://img.shields.io/github/issues-pr/Valite/python-scripts?color=0088ff&style=for-the-badge&logo=github" alt="@Valite/Python-Scripts pull requests"/>
+  </a>
+  <a href="https://github.com/Valite/Python-Scripts/network/members">
+    <img src="https://img.shields.io/github/forks/Valite/Python-Scripts?style=for-the-badge&color=0088ff&logo=github" alt="@Valite/Python-Scripts forks"/>
+  </a>
+   <a href="https://github.com/Valite/Python-Scripts">
+    <img src="https://img.shields.io/github/stars/Valite/Python-Scripts?style=for-the-badge&color=0088ff&logo=github" alt="@Valite/Python-Scripts stars"/>
+  </a>
+  <a href="https://github.com/Valite/Python-Scripts/generate">
+    <img src="https://img.shields.io/badge/use%20this-template-blue?logo=github-sponsors&style=for-the-badge&color=green" alt="@Valite/Python-Scripts link to create a new repository from the template">
+  </a> 
+  <a href="https://github.com/Valite/Python-Scripts">
+    <img src="https://img.shields.io/github/last-commit/valite/Python-Scripts?style=for-the-badge" alt="@Valite/Python-Scripts last-commit"/>
+  </a>
+  <a href="https://github.com/Valite/Python-Scripts">
+    <img src="https://img.shields.io/github/downloads/valite/python-scripts/total?style=for-the-badge" alt="@Valite/Python-Scripts downloads"/>
+  </a>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### **Mi colección de scripts en python**
 
-### Markdown
+Aquí puedes encontar programas que he creado, por *necesidad*, *entrenimiento*, *aprendizaje*, etc
+Cualquier **bug**, **mejora** que exista puedes crear un issue y/o pull request y me pondre manos a la obra
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+>Actualmente están disponibles...
+>>`menu_apps.py`
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Valite/Python-Scripts/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Creado por | 𝓥𝓪𝓵𝓲𝓽𝓮#3644 |
+|--|--|
