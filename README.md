@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/use%20this-template-blue?logo=github-sponsors&style=for-the-badge&color=green" alt="@Valite/Python-Scripts link to create a new repository from the template">
   </a> 
 </p>
-
+![GitHub last commit](https://img.shields.io/github/last-commit/valite/Python-Scripts?style=for-the-badge)
 ### **Mi colección de scripts en python**
 
 Aquí puedes encontar programas que he creado, por *necesidad*, *entrenimiento*, *aprendizaje*, etc
