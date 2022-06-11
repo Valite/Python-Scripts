@@ -23,7 +23,7 @@
   <a href="https://github.com/Valite/Python-Scripts">
     <img src="https://img.shields.io/github/last-commit/valite/Python-Scripts?style=for-the-badge" alt="@Valite/Python-Scripts last-commit"/>
   </a>
-  <a href="https://github.com/Valite/Python-Scripts">
+  <a href="https://github.com/Valite/Python-Scripts/releases/tag/stable">
     <img src="https://img.shields.io/github/downloads/valite/python-scripts/total?style=for-the-badge" alt="@Valite/Python-Scripts downloads"/>
   </a>
 </p>
