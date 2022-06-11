@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Valite/project-template/generate">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@Valite/python-scripts">
+    <img width="100%" src="" alt="@Valite/python-scripts">
   </a>
   <br>
   <a href="https://github.com/Valite/Python-Scripts/issues">
