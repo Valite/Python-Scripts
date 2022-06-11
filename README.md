@@ -11,7 +11,7 @@
   <a href="https://github.com/Valite/Python-Scripts/pulls">
     <img src="https://img.shields.io/github/issues-pr/Valite/python-scripts?color=0088ff&style=for-the-badge&logo=github" alt="@Valite/Python-Scripts pull requests"/>
   </a>
-  <a href="https://github.com/Valite/Python-Scripts">
+  <a href="https://github.com/Valite/Python-Scripts/network/members">
     <img src="https://img.shields.io/github/forks/Valite/Python-Scripts?style=for-the-badge&color=0088ff&logo=github" alt="@Valite/Python-Scripts forks"/>
   </a>
    <a href="https://github.com/Valite/Python-Scripts">
