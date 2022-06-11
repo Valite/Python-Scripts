@@ -37,4 +37,3 @@ Cualquier **bug**, **mejora** que exista puedes crear un issue y/o pull request 
 >>`menu_apps.py`
 
 | Creado por | 𝓥𝓪𝓵𝓲𝓽𝓮#3644 |
-|--|--|
