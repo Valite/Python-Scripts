@@ -6,14 +6,20 @@
   </a>
   <br>
   <a href="https://github.com/Valite/Python-Scripts/issues">
-    <img src="https://img.shields.io/github/issues/Valite/python-scripts?color=0088ff&style=for-the-badge&logo=github" alt="@Valite/project-template's issues"/>
+    <img src="https://img.shields.io/github/issues/Valite/python-scripts?color=0088ff&style=for-the-badge&logo=github" alt="@Valite/Python-Scripts issues"/>
   </a>
   <a href="https://github.com/Valite/Python-Scripts/pulls">
-    <img src="https://img.shields.io/github/issues-pr/Valite/python-scripts?color=0088ff&style=for-the-badge&logo=github" alt="@Valite/project-template's pull requests"/>
+    <img src="https://img.shields.io/github/issues-pr/Valite/python-scripts?color=0088ff&style=for-the-badge&logo=github" alt="@Valite/Python-Scripts pull requests"/>
+  </a>
+  <a href="https://github.com/Valite/Python-Scripts/forks">
+    <img src="https://img.shields.io/github/forks/Valite/Python-Scripts?style=for-the-badge&color=0088ff&logo=github" alt="@Valite/Python-Scripts forks"/>
+  </a>
+   <a href="https://github.com/Valite/Python-Scripts/stars">
+    <img src="https://img.shields.io/github/stars/Valite/Python-Scripts?style=for-the-badge&color=0088ff&logo=github" alt="@Valite/Python-Scripts stars"/>
   </a>
   <a href="https://github.com/Valite/Python-Scripts/generate">
-    <img src="https://img.shields.io/badge/use%20this-template-blue?logo=github-sponsors&style=for-the-badge&color=green" alt="@Valite/project-template link to create a new repository from the template">
-  </a>
+    <img src="https://img.shields.io/badge/use%20this-template-blue?logo=github-sponsors&style=for-the-badge&color=green" alt="@Valite/Python-Scripts link to create a new repository from the template">
+  </a> 
 </p>
 
 ### **Mi colección de scripts en python**
